@@ -1,0 +1,17 @@
+{
+  "release": "RC18",
+  "baseline": "RC17",
+  "scope": "typography weights and rhythm only",
+  "html_files": 43,
+  "local_references_checked": 2309,
+  "broken_local_references": 0,
+  "javascript_changed": false,
+  "content_changed": false,
+  "forms_changed": false,
+  "new_stylesheet": "assets/css/rc18-typography.css",
+  "limitations": [
+    "Browser render not verified",
+    "Live forms not submitted",
+    "Mobile rendering not verified"
+  ]
+}
